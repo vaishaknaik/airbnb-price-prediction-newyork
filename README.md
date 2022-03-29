@@ -1,3 +1,3 @@
-# airbnb-price-prediction-newyork
+Airbnb price prediction (NYC)
 
 Airbnb is a platform that allows homeowners to list their houses online and charge guests to stay in them. Typically homeowners determine the price. Despite the fact that Airbnb and other sites offer some general advice, there are presently no free and accurate programs that assist hosts in pricing their properties using a variety of data factors. In this project, using machine learning techniques, I tried to predict and assist homeowners in determining the Daily rates of their property in New York City. Price will be a dependent variable, taking into account numerous independent variables such as the neighborhood, number of bedrooms, security deposit, etc(94 variable).
